@@ -9,3 +9,6 @@
  c-> Formatting tags: for message formatting, number and date formatting etc.The url for the Formatting tags is http://java.sun.com/jsp/jstl/fmt and prefix is fmt.
  d-> XML tags: flow control, transformation etc. The url for the xml tags is http://java.sun.com/jsp/jstl/xml and prefix is x.
  e-> SQL tags:  provide SQL support. The url for the sql tags is http://java.sun.com/jsp/jstl/sql and prefix is sql.
+
++ References
+https://www.javatpoint.com/jstl-core-tags
