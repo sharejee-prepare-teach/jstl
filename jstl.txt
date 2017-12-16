@@ -1,0 +1,11 @@
+﻿+ JSTL (JSP Standard Tage Library)
+ 1) Advantage of JSTL
+ -> Fast Development: many tags that simplifies the JSP.
+ -> Code Reusability: use the JSTL tags in various pages.
+ -> No need to use scriptlet tage: avoids the use of scriptlet tag.
+ 2) Tage Name
+ a-> Core tags: variable support,URL management http://java.sun.com/jsp/jstl/core . The prefix of core tag is c.
+ b-> Function tags:for string manipulation and string length.
+ c-> Formatting tags: for message formatting, number and date formatting etc.The url for the Formatting tags is http://java.sun.com/jsp/jstl/fmt and prefix is fmt.
+ d-> XML tags: flow control, transformation etc. The url for the xml tags is http://java.sun.com/jsp/jstl/xml and prefix is x.
+ e-> SQL tags:  provide SQL support. The url for the sql tags is http://java.sun.com/jsp/jstl/sql and prefix is sql.
